@@ -51,9 +51,9 @@ This report will help people to get the best plugins for different fields. We fo
    - have an addon to make own ore
    - support all 3 world
 - [TerraformGenerator Alpha](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/)
-- have more biomes than any other plugin
-- have its own structures
-- ready to use for survival but not lightweight
+   - have more biomes than any other plugin
+   - have its own structures
+   - ready to use for survival but not lightweight
 
 ![standard (2)](https://user-images.githubusercontent.com/74851280/147401441-ca441143-2971-40cc-bcec-b0e34e449621.gif)
 
