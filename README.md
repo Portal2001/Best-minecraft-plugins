@@ -38,5 +38,20 @@ This repo will help people to get a best plugins of different fields(please no h
 
 **Other**
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) A anti VPN without need of any paid api.
+- [Inventory Rollback Plus](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-18-x.85811/) rollback player inventory.
+- [Illegal Stack Remover](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/) useful for spigot server only.
+
+![standard (3)](https://user-images.githubusercontent.com/74851280/147401953-16cff055-4aa3-4e89-9816-097e2a52ec1e.gif)
+
+- [EliteMobs](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/) pre made bosses/events/economy/dungeons.
+- [ExcellentEnchants](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments-1-16-1-18.61693/) best Vanilla-like enchantments.
+- [Tweakin](https://www.spigotmc.org/resources/tweakin-1-17-1-18.93444/) make vanilla more fun by adding new things.
+- [Multitool Plus](https://www.spigotmc.org/resources/multitool-plus-1-13-1-17.62509/) switch between tools automatically.
+- [BetterTalismans](https://www.spigotmc.org/resources/%E2%9C%85-bettertalismans-1-8-1-18-%E2%80%A2-custom-heads-recipes-permissions-model-data-custom-boosts.82961/) cool effects with items 
+- [HandyOrbs](https://www.spigotmc.org/resources/handyorbs.78236/) cool floting talismans.
+
+
+
+
 Underwork
 Not released
