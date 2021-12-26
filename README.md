@@ -19,6 +19,16 @@ This repo will help people to get a best plugins of different fields(please no h
 - [More Ores](https://www.spigotmc.org/resources/%E2%9B%8F%EF%B8%8Fmore-ores%E2%9B%8F%EF%B8%8F.77221/) fun custom ore plugin make mining intresting.
 - [TerraformGenerator Alpha](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/) it's also good but need good server specs to run.
 
+![standard (2)](https://user-images.githubusercontent.com/74851280/147401441-ca441143-2971-40cc-bcec-b0e34e449621.gif)
+
+- [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/) best land claiming plugin for a long time.
+- [WorldGuard](https://dev.bukkit.org/projects/worldguard) protect areas from players with many flags.
+- [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin take less storage then other and have in build inventory rollback.
+- [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/) help to prevent massive redstone grief and more.(scan world and limit anything).
+- [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) A anti VPN without need of any paid api.
+- [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) helps to stop redstone lag machine.
+- [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-18.86923/) help to deal with mob lag.
+- [EntityDetection](https://www.spigotmc.org/resources/entitydetection-tile-entity-support.20588/) help to see most mobs in a chunk.
 
 Underwork
 Not released
