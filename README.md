@@ -135,26 +135,26 @@ This report will help people to get the best plugins for different fields. We fo
 - [Tweakin](https://www.spigotmc.org/resources/tweakin-1-17-1-18.93444/)
    - More Recipes
    - more tools
-   - custom iteam and use
-   - light weight 
-   - no texture pack needed
+   - custom item and use
+   - lightweight 
+   - no texture pack is needed
 - [Multitool Plus](https://www.spigotmc.org/resources/multitool-plus-1-13-1-17.62509/)
    - no lag in switching tools
-   - gui for tools storage
+   - GUI for tools storage
    - unique plugin
 - [BetterTalismans](https://www.spigotmc.org/resources/%E2%9C%85-bettertalismans-1-8-1-18-%E2%80%A2-custom-heads-recipes-permissions-model-data-custom-boosts.82961/)
    -  54 talismans
-   -  permision based
-   -  gui interface
+   -  permission-based
+   -  GUI interface
    -  useful in survival
 - [HandyOrbs](https://www.spigotmc.org/resources/handyorbs.78236/)
-   - flowting orbs like big skyblock server
-   - good for skyblock and oneblock
+   - floating orbs like big skyblock server
+   - good for skyblock and one block
    - auto plant feature
 - [Slimefun](https://github.com/Slimefun/Slimefun4)
    - custom Weapons,Items,Food,Basic Machines,Resources,Tools,Armor,Magical Armor,Magical Items,Magical Gadgets,Talismans,Technical,Components,Miscellaneous,Energy&Electricity,GPS,Technical Gadgets,Programmable Androids,Cargo Management,Seasonal Categories
    - mod like feeling in one plugin
-   - few bug are in
+   - few bugs are in
 
 ![standard (4)](https://user-images.githubusercontent.com/74851280/147402333-2ddb6ea8-a128-438b-a982-e53fba3cca3b.gif)
 
