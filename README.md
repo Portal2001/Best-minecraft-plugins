@@ -24,6 +24,8 @@ This repo will help people to get a best plugins of different fields(please no h
 - [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/) best land claiming plugin for a long time.
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard) protect areas from players with many flags.
 - [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin take less storage then other and have in build inventory rollback.
+- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti cheat plugin 1.4 to 1.18.1.
+- [Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/) best paid anti cheat.
 - [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/) help to prevent massive redstone grief and more.(scan world and limit anything).
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/) A anti VPN without need of any paid api.
 - [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) helps to stop redstone lag machine.
