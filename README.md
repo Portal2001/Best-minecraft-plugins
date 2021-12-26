@@ -5,35 +5,35 @@ This report will help people to get the best plugins for different fields. We fo
 ## Common plugin
 - [Essentialsx Family](https://essentialsx.net/)
    - have 130 useful commands(in essentialsx core only)
-   - contains mostely all types of features tp/permission/chat/discord/economy etc.
-   - light weight then other plugin(CMI)
+   - contains mostly all types of features tp/permission/chat/discord/economy etc.
+   - lightweight than other plugins(CMI)
    - have nearly no bug
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
    - one of his own with no alternative
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
-   - one of his own with less alternative.(but this is effective).
+   - one of his own with less alternative. (but this is effective).
 - [WorldEdit for Bukkit](https://dev.bukkit.org/projects/worldedit/files) or [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
-   - paste schmatics in no time
+   - paste schematics in no time
    - select area for other plugins(eg: worldguard)
-   - large number of blocks manupulation with no lag
+   - large number of blocks manipulation with no lag
 - [LuckPerms](https://luckperms.net/)
-   - light weight
-   - user frindly (have a web editer option). 
+   - lightweight
+   - user friendly (have a web editor option). 
 - [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/)
-   - light weight world manager
-   - have addon for portels
+   - lightweight world manager
+   - have addon for  portals
    - permission/money based world entry
 - [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
    - one of his own with no alternative
-   - allow any version of minecraft to join server.
+   - allow any version of Minecraft to join the server.
 ## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
    - fastest chunk generation 
-   - pauseable processes
-   - have his own addon for worldboder
+   - pausable processes
+   - have his own addon for world border
    - support custom shape
 
 ### Custom generation
@@ -62,56 +62,56 @@ This report will help people to get the best plugins for different fields. We fo
 ### Land/area protection
 - [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/)
    - easy to use for both player and server owner
-   - light weight
+   - lightweight
    - have many flags to protect a claim(pet,death loot,lava,water,etc)
-   - have auto ban feature
+   - have auto-ban feature
    - have many addons (like for: flags,auto inv,etc)
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard)
-   - Set additional game rules on your server/on a area
+   - Set additional game rules on your server/on an area
    - Protects against many types of grief for server owners
-   - light weight on management
+   - lightweight on management
 - [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin.
-   - takes less space in logs stroage
+   - takes less space in logs storage
    - have auto old data clear system to prevent from corrupt.
    - in build inventory rollback
-   - ore announser(staff alert on any block palce)
+   - ore announcer(staff alert on any block place)
 
 ### Anticheat
-- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti cheat plugin 1.4 to 1.18.1.
-   - light weight on processes
-   - support mcmmo and npc plugins
-   - highly configable
-   - freee
+- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti-cheat plugin 1.4 to 1.18.1.
+   - lightweight on processes
+   - support mcmmo and NPC plugins
+   - highly configurable
+   - free
 - [Vulcan Anti-Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
    - paid
    - Client Brand detection
    - Asynchronous
    - Discord Integration
-   - light weight
+   - lightweight
    - In-Game GUI
 
 ### Performance Management
 - [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
    - Asynchronous Scans
-   - limits per chunk permission based
+   - limits per chunk permission-based
    - WorldEdit,BentoBoxWorldAddon,USkyBlockAddon ,IridiumSkyblockAddon,LandsAddon,TownyAddon... limiter support
    - Scan the whole (loaded) world for specific blocks
 - [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/)
-   - MultiWorld,WorldGuard Support
+   - MultiWorld, WorldGuard Support
    - support redstone, comparator, observer and repeater clock
    - redstone clock break
 - [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-18.86923/) 
    - farm limiter for big server
    -  can completely disable the AI of mobs
    -  tps based action
-   -  per-world customisation
+   -  per-world customization
 - [EntityDetection](https://www.spigotmc.org/resources/entitydetection-tile-entity-support.20588/) 
-   - quick find chunks with a large amount of Monsters
+   - quick find chunks with a large number of Monsters
    - villager breeder center finder
    
 ### Other
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/)
-   -  Exemption of individual on bases of rank and uuid
+   -  Exemption of individual on basis of rank and UUID
    -   Ingame IP lookup
    -   free API
 - [Inventory Rollback Plus](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-18-x.85811/)
@@ -121,7 +121,7 @@ This report will help people to get the best plugins for different fields. We fo
    - support purpur 6 rows
 - [Illegal Stack Remover](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/)
    -  useful for **spigot** server only.
-   -  stop al most all dupe
+   -  stop almost all dupe
  
 ## Non-vanilla fun
 - [EliteMobs](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
@@ -165,10 +165,10 @@ This report will help people to get the best plugins for different fields. We fo
 - [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
    - paid
    - easy to setup
-   - multipule area in one world support
+   - multiple areas in one world support
    - TNT, Fireball jump
    - Really low resource usage
-   - used by biggest server owner
+   - used by the biggest server owner
 - [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/)
    - free
    - nearly better the paid
