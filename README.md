@@ -1,5 +1,5 @@
 # Best-minecraft-plugins
-This repo will help people to get a best plugins of different fields(please no hate to anyone it's just my point of view. You are also welcome to suggest).
+This repo will help people to get a best plugins of different fields.We focused on more of free alternatives(paid is also in) and up-to-date 1.18.1 runable plugins (please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
 ![standard](https://user-images.githubusercontent.com/74851280/147400632-f9eee87e-db49-4159-8bbc-b5634ffabf62.gif)
 
@@ -51,7 +51,14 @@ This repo will help people to get a best plugins of different fields(please no h
 - [HandyOrbs](https://www.spigotmc.org/resources/handyorbs.78236/) cool floting talismans.
 - [Slimefun](https://github.com/Slimefun/Slimefun4) plugin that looks and feels like a modpack.
 
+![standard (4)](https://user-images.githubusercontent.com/74851280/147402333-2ddb6ea8-a128-438b-a982-e53fba3cca3b.gif)
 
+- [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/) best free BedWars plugin
+- [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/) best paid bedwars plugin
+- [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/) best free skywars plugin.
+- [EggWars](https://www.spigotmc.org/resources/free-eggwars-mini-game-remastered.97569/) free EggWars plugin 
+- [SheepQuest](https://www.spigotmc.org/resources/sheepquest-minigame-1-8-1-17-bungee-multiworld.83005/) unique minigame.
+- [Bomberman](https://www.spigotmc.org/resources/bomberman.77616/) unique game.
 
 
 Underwork
