@@ -214,4 +214,11 @@ This report will help people to get the best plugins for different fields. We fo
 ## Other
 
 
+
 Underwork more coming soon.
+
+
+## I hope it will help you
+
+- https://ko-fi.com/fickletcell
+- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
