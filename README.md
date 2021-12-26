@@ -219,7 +219,7 @@ This report will help people to get the best plugins for different fields. We fo
 Underwork more is coming soon.
 
 
-## I hope it will help you
+## I hope it helped you
 
 - https://ko-fi.com/fickletcell
 - https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
