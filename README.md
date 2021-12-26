@@ -161,14 +161,14 @@ This report will help people to get the best plugins for different fields. We fo
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
    - free
    - one of its own
-   - have addon like big server [SBA](https://www.spigotmc.org/resources/discontinued-sba-for-screaming-bedwars-1-9-4-1-17.79505/)
+   - have an addon like big server [SBA](https://www.spigotmc.org/resources/discontinued-sba-for-screaming-bedwars-1-9-4-1-17.79505/)
 - [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
    - paid
    - easy to setup
-   - multi area in one world support
+   - multipule area in one world support
    - TNT, Fireball jump
    - Really low resource usage
-   - used by bigest server owner
+   - used by biggest server owner
 - [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/)
    - free
    - nearly better the paid
@@ -180,20 +180,20 @@ This report will help people to get the best plugins for different fields. We fo
 - [Bomberman](https://www.spigotmc.org/resources/bomberman.77616/)
    - unique games
 - [BSkyblock](https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/)
-   - have too many addons to make your type
-   - light weight
+   - have too many add-ons to make your type
+   - lightweight
 - [Iridium Skyblock](https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-18.62480/)
    - semi premade
-   - own economy,shop
+   - own economy, shop
 - [KitPvP](https://www.spigotmc.org/resources/kitpvp-1-8-1-17-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/)
-   - lots of feature 
-   - free (better then paid in some cases)
+   - lots of features 
+   - free (better than paid in some cases)
 - [Build Battle](https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/)
-   - unique gamesand free
+   - unique games and free
 - [Village Defense](https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/)
-   - unique gamesand free
+   - unique games and free
 - [The Bridge](https://www.spigotmc.org/resources/the-bridge-1-8-8-1-17.87320/)
-   - unique gamesand free
+   - unique games and free
 - [Turf Wars](https://www.spigotmc.org/resources/1-8-to-1-17-1-turf-wars-mini-game.2513/)
    - unique games and free
 - [Spleef](https://www.spigotmc.org/resources/spleef.61787/)
@@ -215,7 +215,7 @@ This report will help people to get the best plugins for different fields. We fo
 
 
 
-Underwork more coming soon.
+Underwork more is coming soon.
 
 
 ## I hope it will help you
