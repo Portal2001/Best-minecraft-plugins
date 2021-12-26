@@ -3,7 +3,7 @@ This report will help people to get the best plugins for different fields. We fo
 
 
 ## Common plugin
-- [Essentials family](https://essentialsx.net/)
+- [Essentialsx Family](https://essentialsx.net/)
    - have 130 useful commands(in essentialsx core only)
    - contains mostely all types of features tp/permission/chat/discord/economy etc.
    - light weight then other plugin(CMI)
@@ -11,14 +11,14 @@ This report will help people to get the best plugins for different fields. We fo
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
    - one of his own with no alternative
-- [Protocallib](https://www.spigotmc.org/resources/protocollib.1997/)
+- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
    - one of his own with less alternative.(but this is effective).
-- [Worldedit](https://dev.bukkit.org/projects/worldedit/files) or [fastasyncworldedit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
+- [WorldEdit for Bukkit](https://dev.bukkit.org/projects/worldedit/files) or [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
    - paste schmatics in no time
    - select area for other plugins(eg: worldguard)
    - large number of blocks manupulation with no lag
-- [Luckperms](https://luckperms.net/)
+- [LuckPerms](https://luckperms.net/)
    - light weight
    - user frindly (have a web editer option). 
 - [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/)
@@ -37,12 +37,12 @@ This report will help people to get the best plugins for different fields. We fo
    - support custom shape
 
 ### Custom generation
-- [Tera](https://www.spigotmc.org/resources/terra.85151/)
+- [Terra](https://www.spigotmc.org/resources/terra.85151/)
    - fastest custom generation (No NMS)
    - lightweight compared to other
    - teleport system  
    - can pull Biome selections from an image
-- [Oh The Dungeons You'll Go](https://www.spigotmc.org/resources/oh-the-dungeons-youll-go.76437/) best custom dungeon generator.
+- [[] Oh The Dungeons You'll Go](https://www.spigotmc.org/resources/oh-the-dungeons-youll-go.76437/) best custom dungeon generator.
   - one of his own with less alternative.
   - 6 Dungeon Types with 70 dungeon themes
   - Custom Schematic Support
@@ -52,7 +52,7 @@ This report will help people to get the best plugins for different fields. We fo
    - can generate in a loaded chunk
    - have an addon to make own ore
    - support all 3 world
-- [TerraformGenerator Alpha](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/)
+- [TerraformGenerator [Alpha]](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/)
    - have more biomes than any other plugin
    - have its own structures
    - ready to use for survival but not lightweight
@@ -82,7 +82,7 @@ This report will help people to get the best plugins for different fields. We fo
    - support mcmmo and npc plugins
    - highly configable
    - freee
-- [Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
+- [Vulcan Anti-Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
    - paid
    - Client Brand detection
    - Asynchronous
