@@ -1,8 +1,7 @@
 # Best-Minecraft-plugins
 This report will help people to get the best plugins for different fields. We focused more on free alternatives(paid is also in) and up-to-date 1.18.1 runnable plugins (please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
-## The Basics
-
+## Basic Functions
 - [Essentials family](https://essentialsx.net/)
    - It has 130 common commands that players expect to have.
    - Things like teleporting, Buy and Sell signs, basic chat formatting, economy features (requires Vault) and more.
@@ -29,8 +28,7 @@ This report will help people to get the best plugins for different fields. We fo
 - [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
    - one of his own with no alternative
    - allow any version of minecraft to join server.
- 
-![standard (1)](https://user-images.githubusercontent.com/74851280/147401073-2d6ebcf3-4ada-4236-a279-52a64b0addff.gif)
+## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
    - fastest chunk generation 
@@ -38,7 +36,7 @@ This report will help people to get the best plugins for different fields. We fo
    - have his own addon for worldboder
    - support custom shape
 
-***Custom generation***
+### Custom generation
 - [Tera](https://www.spigotmc.org/resources/terra.85151/)
    - fastest custom generation (No NMS)
    - lightweight compared to other
@@ -58,10 +56,10 @@ This report will help people to get the best plugins for different fields. We fo
    - have more biomes than any other plugin
    - have its own structures
    - ready to use for survival but not lightweight
+ 
+## Anti Grief
 
-![standard (2)](https://user-images.githubusercontent.com/74851280/147401441-ca441143-2971-40cc-bcec-b0e34e449621.gif)
-
-**Land/area protection**
+### Land/area protection
 - [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/)
    - easy to use for both player and server owner
    - light weight
@@ -78,7 +76,7 @@ This report will help people to get the best plugins for different fields. We fo
    - in build inventory rollback
    - ore announser(staff alert on any block palce)
 
-**Anticheat**
+### Anticheat
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti cheat plugin 1.4 to 1.18.1.
    - light weight on processes
    - support mcmmo and npc plugins
@@ -92,7 +90,7 @@ This report will help people to get the best plugins for different fields. We fo
    - light weight
    - In-Game GUI
 
-**Performance Management**
+### Performance Management
 - [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
    - Asynchronous Scans
    - limits per chunk permission based
@@ -110,8 +108,8 @@ This report will help people to get the best plugins for different fields. We fo
 - [EntityDetection](https://www.spigotmc.org/resources/entitydetection-tile-entity-support.20588/) 
    - quick find chunks with a large amount of Monsters
    - villager breeder center finder
-
-**Other**
+   
+### Other
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/)
    -  Exemption of individual on bases of rank and uuid
    -   Ingame IP lookup
@@ -125,8 +123,7 @@ This report will help people to get the best plugins for different fields. We fo
    -  useful for spigot server only.
    -  stop al most all dupe
  
-![standard (3)](https://user-images.githubusercontent.com/74851280/147401953-16cff055-4aa3-4e89-9816-097e2a52ec1e.gif)
-
+## Non-vanilla fun
 - [EliteMobs](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
    - Adventures, Minidungeons & Lairs
    - custom loot/bosses/event/power/etc..
@@ -159,8 +156,7 @@ This report will help people to get the best plugins for different fields. We fo
    - custom Weapons,Items,Food,Basic Machines,Resources,Tools,Armor,Magical Armor,Magical Items,Magical Gadgets,Talismans,Technical,Components,Miscellaneous,Energy&Electricity,GPS,Technical Gadgets,Programmable Androids,Cargo Management,Seasonal Categories
    - mod like feeling in one plugin
    - few bugs are in
-
-![standard (4)](https://user-images.githubusercontent.com/74851280/147402333-2ddb6ea8-a128-438b-a982-e53fba3cca3b.gif)
+## minigames
 
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
    - free
@@ -215,7 +211,7 @@ This report will help people to get the best plugins for different fields. We fo
 - [Factions](https://www.spigotmc.org/resources/factions.1900/)
   - unique games and free
 
-![standard (5)](https://user-images.githubusercontent.com/74851280/147407263-4619e5ed-47a9-4320-aab4-f1b6685bd2f3.gif)
+## Other
 
 
 Underwork more coming soon.
