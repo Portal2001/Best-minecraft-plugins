@@ -120,7 +120,7 @@ This report will help people to get the best plugins for different fields. We fo
    - no lag
    - support purpur 6 rows
 - [Illegal Stack Remover](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/)
-   -  useful for spigot server only.
+   -  useful for **spigot** server only.
    -  stop al most all dupe
  
 ## Non-vanilla fun
