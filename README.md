@@ -49,6 +49,7 @@ This repo will help people to get a best plugins of different fields(please no h
 - [Multitool Plus](https://www.spigotmc.org/resources/multitool-plus-1-13-1-17.62509/) switch between tools automatically.
 - [BetterTalismans](https://www.spigotmc.org/resources/%E2%9C%85-bettertalismans-1-8-1-18-%E2%80%A2-custom-heads-recipes-permissions-model-data-custom-boosts.82961/) cool effects with items 
 - [HandyOrbs](https://www.spigotmc.org/resources/handyorbs.78236/) cool floting talismans.
+- [Slimefun](https://github.com/Slimefun/Slimefun4) plugin that looks and feels like a modpack.
 
 
 
