@@ -30,7 +30,7 @@ This repo will help people to get a best plugins of different fields.We focused 
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti cheat plugin 1.4 to 1.18.1.
 - [Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/) best paid anti cheat.
 
-**Anti lag**
+**Performance Management**
 - [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/) help to prevent massive redstone grief and more.(scan world and limit anything).
 - [AntiRedstoneClock](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-17.18557/) helps to stop redstone lag machine.
 - [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-18.86923/) help to deal with mob lag.
