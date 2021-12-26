@@ -24,7 +24,11 @@ This repo will help people to get a best plugins of different fields.We focused 
 **Land/area protection**
 - [GriefPrevention](https://www.spigotmc.org/resources/griefprevention.1884/) best land claiming plugin for a long time.
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard) protect areas from players with many flags.
-- [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin take less storage then other and have in build inventory rollback.
+- [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin.
+   - takes less space in logs stroage
+   - have auto old data clear system to prevent from corrupt.
+   - in build inventory rollback
+   - ore announser(staff alert on any block palce)
 
 **Anticheat**
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti cheat plugin 1.4 to 1.18.1.
@@ -72,5 +76,7 @@ This repo will help people to get a best plugins of different fields.We focused 
 - [Arcade Minigames](https://www.spigotmc.org/resources/%E2%9E%A2-arcade-minigames.49093/) paid lots of minigames packs 
 - [TNTRun_reloaded](https://www.spigotmc.org/resources/tntrun_reloaded-tntrun-for-1-13-1-18.53359/) unique game.
 - [PixelPrinter](https://www.spigotmc.org/resources/pixelprinter.29760/) unique game.
+- [Factions](https://www.spigotmc.org/resources/factions.1900/) unique game.
+
 
 Underwork more coming soon.
