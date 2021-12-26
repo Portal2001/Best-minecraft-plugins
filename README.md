@@ -2,12 +2,13 @@
 This report will help people to get the best plugins for different fields. We focused more on free alternatives(paid is also in) and up-to-date 1.18.1 runnable plugins (please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
 
-## Common plugin
+## Basic Functions
 - [Essentialsx Family](https://essentialsx.net/)
-   - have 130 useful commands(in essentialsx core only)
-   - contains mostly all types of features tp/permission/chat/discord/economy etc.
-   - lightweight than other plugins(CMI)
-   - have nearly no bug
+   - It has 130 common commands that players expect to have.
+   - Things like teleporting, Buy and Sell signs, basic chat formatting, economy features (requires Vault) and more.
+   - Light-weight compared to something like CMI.
+   - It's popular meaning getting support is very easy.
+   - Very well [documented.](https://essinfo.xeya.me/permissions.html)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
    - one of his own with no alternative
