@@ -1,17 +1,18 @@
 # Best-Minecraft-plugins
 This report will help people to get the best plugins for different fields. We focused more on free alternatives(paid is also in) and up-to-date 1.18.1 runnable plugins (please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
-![standard](https://user-images.githubusercontent.com/74851280/147400632-f9eee87e-db49-4159-8bbc-b5634ffabf62.gif)
+## The Basics
 
 - [Essentials family](https://essentialsx.net/)
-   - have 130 useful commands(in essentialsx core only)
-   - contains mostely all types of features tp/permission/chat/discord/economy etc.
-   - light weight then other plugin(CMI)
-   - have nearly no bug
+   - It has 130 common commands that players expect to have.
+   - Things like teleporting, Buy and Sell signs, basic chat formatting, economy features (requires Vault) and more.
+   - Light-weight compared to something like CMI.
+   - It's popular meaning getting support is very easy.
+   - Very well [documented.](https://essinfo.xeya.me/permissions.html)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
-   - helps to transfer money
-   - one of his own with no alternative
-- [Protocallib](https://www.spigotmc.org/resources/protocollib.1997/)
+   - A dependancy for many plugins.
+   - "It makes things work" is all you really need to know.
+- [Protocolllib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
    - one of his own with less alternative.(but this is effective).
 - [Worldedit](https://dev.bukkit.org/projects/worldedit/files) or [fastasyncworldedit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)
