@@ -8,5 +8,17 @@ This repo will help people to get a best plugins of different fields(please no h
 - [Protocallib](https://www.spigotmc.org/resources/protocollib.1997/) best packet reader plugin.
 - [Worldedit](https://dev.bukkit.org/projects/worldedit/files) or [fastasyncworldedit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/) this is used to past schematics/to make changes in blocks/select area 
  
+![standard (1)](https://user-images.githubusercontent.com/74851280/147401073-2d6ebcf3-4ada-4236-a279-52a64b0addff.gif)
+
+- [Chunky](https://www.spigotmc.org/resources/chunky.81534/) fastest chunk generation plugin.
+
+
+***Custom generation***
+- [Tera](https://www.spigotmc.org/resources/terra.85151/) best custom generation plugin.
+- [Oh The Dungeons You'll Go](https://www.spigotmc.org/resources/oh-the-dungeons-youll-go.76437/) best custom dungeon generator.
+- [More Ores](https://www.spigotmc.org/resources/%E2%9B%8F%EF%B8%8Fmore-ores%E2%9B%8F%EF%B8%8F.77221/) fun custom ore plugin make mining intresting.
+- [TerraformGenerator Alpha](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/) it's also good but need good server specs to run.
+
+
 Underwork
 Not released
