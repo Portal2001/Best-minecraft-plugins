@@ -59,7 +59,18 @@ This repo will help people to get a best plugins of different fields.We focused 
 - [EggWars](https://www.spigotmc.org/resources/free-eggwars-mini-game-remastered.97569/) free EggWars plugin 
 - [SheepQuest](https://www.spigotmc.org/resources/sheepquest-minigame-1-8-1-17-bungee-multiworld.83005/) unique minigame.
 - [Bomberman](https://www.spigotmc.org/resources/bomberman.77616/) unique game.
+- [BSkyblock](https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/) skyblock plugin
+- [Iridium Skyblock](https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-18.62480/) semi-premade Skyblock plugin.
+- [KitPvP](https://www.spigotmc.org/resources/kitpvp-1-8-1-17-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/) KitPvP plugin
+- [Build Battle](https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/) building compitition.
+- [Village Defense](https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/) protect villagers from zombies.
+- [The Bridge](https://www.spigotmc.org/resources/the-bridge-1-8-8-1-17.87320/) unique game.
+- [Turf Wars](https://www.spigotmc.org/resources/1-8-to-1-17-1-turf-wars-mini-game.2513/) unique game.
+- [Spleef](https://www.spigotmc.org/resources/spleef.61787/) unique game.
+- [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/) paid no free alternatives.
+- [HungerGames](https://www.spigotmc.org/resources/hungergames.65942/) unique game.
+- [Arcade Minigames](https://www.spigotmc.org/resources/%E2%9E%A2-arcade-minigames.49093/) paid lots of minigames packs 
+- [TNTRun_reloaded](https://www.spigotmc.org/resources/tntrun_reloaded-tntrun-for-1-13-1-18.53359/) unique game.
+- [PixelPrinter](https://www.spigotmc.org/resources/pixelprinter.29760/) unique game.
 
-
-Underwork
-Not released
+Underwork more coming soon.
