@@ -29,6 +29,9 @@ This report will help people to get the best plugins for different fields. We fo
 - [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
    - one of his own with no alternative
    - allow any version of Minecraft to join the server.
+- [NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)
+   - the only one which is still updated
+   - helps to receive votes from voting sites.
 ## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
@@ -217,8 +220,9 @@ This report will help people to get the best plugins for different fields. We fo
 
 
 Underwork more is coming soon.
-
-
+## Credits 
+- [syscraft](https://discord.gg/MBjfSzbN5F)
+- [papermc](https://discord.gg/papermc)
 ## I hope it helped you
 
 - https://ko-fi.com/fickletcell
