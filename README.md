@@ -32,6 +32,11 @@ This report will help people to get the best plugins for different fields. We fo
 - [NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)
    - the only one which is still updated
    - helps to receive votes from voting sites.
+- [Geysermc](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/)
+   - one of his own with no alternative
+   - help to connect java and bedrock 
+   - lightweight with no client side lag
+   - dedecated community
 ## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
@@ -133,6 +138,10 @@ This report will help people to get the best plugins for different fields. We fo
    - custom loot/bosses/event/power/etc..
    - Dynamic Quests
    - Advanced item systems
+- [MythicMobs](https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/)
+   - Create your own bosses
+   - one of his own with less alternative. (but this is effective).
+   - light weight and lots of customization
 - [ExcellentEnchants](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments-1-16-1-18.61693/)
    - supported: Enchanting Table, Anvils, Villagers, Grindstones, Loot
    - Enchants for all tools and armor
@@ -214,12 +223,28 @@ This report will help people to get the best plugins for different fields. We fo
    - unique games and free
 - [Factions](https://www.spigotmc.org/resources/factions.1900/)
   - unique games and free
+- [Murder Mystery](https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/)
+   - unique games and free
 
 ## Other
-
-
-
-Underwork more is coming soon.
+- [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
+   - easy to use with all common features needed
+   - if full of features needed use [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
+- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+   - one of his own with no alternative
+   - have a well defined page[wiki](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki)
+- [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-17-1-free.10885/)
+   - Most commonly used 
+   - have free and paid option
+   - 415+ cosmetic in free only
+- [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
+   - 23 jobs to earn from
+   - GUI support
+   - other plugin integration such as mcmmo and MythicMobs
+- [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/)
+   - RGB support
+   - used by most of the big servers
+   - Randomized MOTDs and icon support
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
