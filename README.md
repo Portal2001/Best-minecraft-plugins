@@ -225,7 +225,7 @@ This report will help people to get the best plugins for different fields. We fo
   - unique games and free
 - [Murder Mystery](https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/)
    - unique games and free
-## Quest and Shop
+## Quest plugin
 - [Quests](https://www.spigotmc.org/resources/quests-1-8-1-18-set-up-goals-for-players.23696/)
    - complex quest system
    - GUI interface
@@ -236,6 +236,17 @@ This report will help people to get the best plugins for different fields. We fo
    - Challenge Generator
    - Citizens and PlaceholderAPI integration
    - easy to use
+## Shops
+- [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui.69927/)
+   - Premade shop configurations for all versions
+   - easy to use and configure with gui and config
+   - Support for NPC shops
+   - Compatibility with SilkSpawners, WildStacker and UltimateStacker
+- [QuickShop](https://www.spigotmc.org/resources/quickshop-reremake-1-18-ready-multi-currency.62575/)
+   - asynchronous actions
+   - WorldGuard, Towny, PlotSquared and Factions support.
+   - Tax support
+   - Multi-Currency and custom items supports.
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
