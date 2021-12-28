@@ -168,7 +168,11 @@ This report will help people to get the best plugins for different fields. We fo
 - [Slimefun](https://github.com/Slimefun/Slimefun4)
    - custom Weapons,Items,Food,Basic Machines,Resources,Tools,Armor,Magical Armor,Magical Items,Magical Gadgets,Talismans,Technical,Components,Miscellaneous,Energy&Electricity,GPS,Technical Gadgets,Programmable Androids,Cargo Management,Seasonal Categories
    - mod like feeling in one plugin
-   - few bugs are in
+   - few bugs are in Slimefun
+- [VeinMiner](https://www.spigotmc.org/resources/veinminer.12038/)
+   - support breaking of ore veins, trees, crops/farm.
+   - support anti cheats are NoCheatPlus,matrix,Aac,spartan,antiaura.
+   - flexible and lightweight plugin.
 ## minigames
 
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
@@ -258,14 +262,38 @@ This report will help people to get the best plugins for different fields. We fo
    - Most commonly used 
    - have free and paid option
    - 415+ cosmetic in free only
+- [SmallPets](https://www.spigotmc.org/resources/smallpets.81184/)
+   - 7+ pets support
+   - multi use cosmetic and player boots by pet.
+   - level up system with power ups.
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
    - 23 jobs to earn from
    - GUI support
    - other plugin integration such as mcmmo and MythicMobs
+- [Aurelium Skills](https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/)
+   - best free replacement for mcmmo
+   - 15+ skills available
+   - support gui
+   - support different levels of abilities and mana
+   - easy to use any lightweight.
 - [MiniMOTD](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/)
    - RGB support
    - used by most of the big servers
    - Randomized MOTDs and icon support
+- [QuickTax](https://www.spigotmc.org/resources/%E2%9B%81-quicktax-%E2%9B%81.96495/)
+   - helps to balance economy
+   - support leaderboard, signs and heads
+   - support of PlaceholderAPI and GriefPrevention
+   - support for rank, balance , claim-blocks bases tax.
+- [Statz](https://www.spigotmc.org/resources/statz.25969/)
+   - plugin to show player stats in leaderboard
+   - tracks data from vanilla Minecraft statistics
+   - support PlaceholderAPI
+- [Server Tutorial Plus](https://www.spigotmc.org/resources/server-tutorial-plus.37741/)
+   - unique way of introducing your server
+   - support reward system 
+   - unlimited tutorials and view points
+   - support NPC and lightweight
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
