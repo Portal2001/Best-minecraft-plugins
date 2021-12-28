@@ -225,7 +225,17 @@ This report will help people to get the best plugins for different fields. We fo
   - unique games and free
 - [Murder Mystery](https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/)
    - unique games and free
-
+## Quest and Shop
+- [Quests](https://www.spigotmc.org/resources/quests-1-8-1-18-set-up-goals-for-players.23696/)
+   - complex quest system
+   - GUI interface
+   - 30+ types
+   - PlaceholderAPI integration
+- [GoldenChallenges](https://www.spigotmc.org/resources/goldenchallenges-%E2%80%A2-advanced-challenges-for-your-players-1-16-1-18.85028/)
+   - 15+ types 
+   - Challenge Generator
+   - Citizens and PlaceholderAPI integration
+   - easy to use
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
