@@ -294,6 +294,12 @@ This report will help people to get the best plugins for different fields. We fo
    - support reward system 
    - unlimited tutorials and view points
    - support NPC and lightweight
+- [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/)
+   - In-game Editor and creater of Gui
+   - 3 level gui including player inventory
+   - support Placeholder API, Vault,BungeeCord,Head Database,MMOItems,Custom Items,VotingPlugin,TokenManager.
+   - well described [wiki](https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki/dependencies).
+   - alternative [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
