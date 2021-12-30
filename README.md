@@ -300,8 +300,7 @@ This report will help people to get the best plugins for different fields. We fo
    - support Placeholder API, Vault,BungeeCord,Head Database,MMOItems,Custom Items,VotingPlugin,TokenManager.
    - well described [wiki](https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki/dependencies).
    - alternative [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
-
--[BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-18-1.61163/)
+- [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-18-1.61163/)
    - colour code and hex colour support
    - Clickable/Hover text supported
    - Placeholder supported
