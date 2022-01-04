@@ -311,6 +311,11 @@ This report will help people to get the best plugins for different fields. We fo
    - it is read chunk directly from the region cache
    - Automatically adapt to the player internet speed
    - asynchronous
+- [ExcellentCrates](https://www.spigotmc.org/resources/excellentcrates-advanced-custom-crates-1-16-1-18.48732/)
+   - Up to 27 custom items
+   - Decimal win. chance
+   - Support NPC, vault, HolographicDisplays
+   - block particle effects support
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
