@@ -84,6 +84,7 @@ This report will help people to get the best plugins for different fields. We fo
    - have auto old data clear system to prevent from corrupt.
    - in build inventory rollback
    - ore announcer(staff alert on any block place)
+   - it need database to work if you dont have then stick with [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
 
 ### Anticheat
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti-cheat plugin 1.4 to 1.18.1.
@@ -305,7 +306,11 @@ This report will help people to get the best plugins for different fields. We fo
    - Clickable/Hover text supported
    - Placeholder supported
    - automatic book open feature on player join
-
+- [FartherViewDistance](https://www.spigotmc.org/resources/fartherviewdistance.84950/)
+   - This allows players to view a larger distance of chunks with less lag
+   - it is read chunk directly from the region cache
+   - Automatically adapt to the player internet speed
+   - asynchronous
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
