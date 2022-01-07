@@ -19,6 +19,7 @@
 This report is made to help those people who ask for best plugins for their use in all minecraft discord servers.This will help people to get their best plugins for different fields. We focused more on 
    - free alternatives(paid is also there) 
    - up-to-date 1.18.1 runnable plugins 
+  
 (please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
 ## Basic Functions
