@@ -1,20 +1,20 @@
 # Best-Minecraft-plugins
 ## Index
-- why made this 
-- Basic Functions
-- Chunk Generation
-  - Custom generation
-- Anti Grief
-  - Land/area protection
-  - Anticheat
-  - Performance Management
-  - Other
-- Non-vanilla fun
-- Minigames
-- Quest plugin
-- Shops
-- Other
-- Credits
+- [why made this](https://github.com/Fickletcell/Best-minecraft-plugins#why-made-this)
+- [Basic Functions](https://github.com/Fickletcell/Best-minecraft-plugins#basic-functions)
+- [Chunk Generation](https://github.com/Fickletcell/Best-minecraft-plugins#chunk-generation)
+  - [Custom generation](https://github.com/Fickletcell/Best-minecraft-plugins#custom-generation)
+- [Anti Grief](https://github.com/Fickletcell/Best-minecraft-plugins#anti-grief)
+  - [Land/area protection](https://github.com/Fickletcell/Best-minecraft-plugins#landarea-protection)
+  - [Anticheat](https://github.com/Fickletcell/Best-minecraft-plugins#anticheat)
+  - [Performance Management](https://github.com/Fickletcell/Best-minecraft-plugins#performance-management)
+  - [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other)
+- [Non-vanilla fun](https://github.com/Fickletcell/Best-minecraft-plugins#non-vanilla-fun)
+- [Minigames](https://github.com/Fickletcell/Best-minecraft-plugins#minigames)
+- [Quest plugin](https://github.com/Fickletcell/Best-minecraft-plugins#quest-plugin)
+- [Shops](https://github.com/Fickletcell/Best-minecraft-plugins#shops)
+- [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other-1)
+- [Credits](https://github.com/Fickletcell/Best-minecraft-plugins#credits)
 ## Why made this?
 This report is made to help those people who ask for best plugins for their use in all minecraft discord servers.This will help people to get their best plugins for different fields. We focused more on 
    - free alternatives(paid is also there) 
