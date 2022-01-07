@@ -263,6 +263,11 @@ This report will help people to get the best plugins for different fields. We fo
    - Most commonly used 
    - have free and paid option
    - 415+ cosmetic in free only
+- [MyCommand](https://www.spigotmc.org/resources/mycommand.22272/)
+   - Make new commands
+   - Allow the execution of commands
+   - Economy support
+   - BungeeCord features
 - [SmallPets](https://www.spigotmc.org/resources/smallpets.81184/)
    - 7+ pets support
    - multi use cosmetic and player boots by pet.
