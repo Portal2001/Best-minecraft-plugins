@@ -1,6 +1,25 @@
 # Best-Minecraft-plugins
-This report will help people to get the best plugins for different fields. We focused more on free alternatives(paid is also in) and up-to-date 1.18.1 runnable plugins (please no hate to anyone it's just my point of view. You are also welcome to suggest).
-
+## Index
+- why made this 
+- Basic Functions
+- Chunk Generation
+  - Custom generation
+- Anti Grief
+  - Land/area protection
+  - Anticheat
+  - Performance Management
+  - Other
+- Non-vanilla fun
+- Minigames
+- Quest plugin
+- Shops
+- Other
+- Credits
+## Why made this?
+This report is made to help those people who ask for best plugins for their use in all minecraft discord servers.This will help people to get their best plugins for different fields. We focused more on 
+   - free alternatives(paid is also there) 
+   - up-to-date 1.18.1 runnable plugins 
+(please no hate to anyone it's just my point of view. You are also welcome to suggest).
 
 ## Basic Functions
 - [Essentialsx Family](https://essentialsx.net/)
@@ -174,7 +193,7 @@ This report will help people to get the best plugins for different fields. We fo
    - support breaking of ore veins, trees, crops/farm.
    - support anti cheats are NoCheatPlus,matrix,Aac,spartan,antiaura.
    - flexible and lightweight plugin.
-## minigames
+## Minigames
 
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
    - free
