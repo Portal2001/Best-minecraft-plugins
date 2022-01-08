@@ -13,6 +13,7 @@
 - [Minigames](https://github.com/Fickletcell/Best-minecraft-plugins#minigames)
 - [Quest plugin](https://github.com/Fickletcell/Best-minecraft-plugins#quest-plugin)
 - [Shops](https://github.com/Fickletcell/Best-minecraft-plugins#shops)
+- [Cosmetics]()
 - [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other-1)
 - [Credits](https://github.com/Fickletcell/Best-minecraft-plugins#credits)
 ## Why made this?
@@ -272,6 +273,15 @@ This report is made to help those people who ask for best plugins for their use 
    - WorldGuard, Towny, PlotSquared and Factions support.
    - Tax support
    - Multi-Currency and custom items supports.
+## Cosmetics
+- [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-17-1-free.10885/)
+   - Most commonly used 
+   - have free and paid option
+   - 415+ cosmetic in free only
+- [SmallPets](https://www.spigotmc.org/resources/smallpets.81184/)
+   - 7+ pets support
+   - multi use cosmetic and player boots by pet.
+   - level up system with power ups.
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
@@ -279,19 +289,11 @@ This report is made to help those people who ask for best plugins for their use 
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
    - one of his own with no alternative
    - have a well defined page[wiki](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki)
-- [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-17-1-free.10885/)
-   - Most commonly used 
-   - have free and paid option
-   - 415+ cosmetic in free only
 - [MyCommand](https://www.spigotmc.org/resources/mycommand.22272/)
    - Make new commands
    - Allow the execution of commands
    - Economy support
    - BungeeCord features
-- [SmallPets](https://www.spigotmc.org/resources/smallpets.81184/)
-   - 7+ pets support
-   - multi use cosmetic and player boots by pet.
-   - level up system with power ups.
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
    - 23 jobs to earn from
    - GUI support
