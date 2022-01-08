@@ -13,7 +13,7 @@
 - [Minigames](https://github.com/Fickletcell/Best-minecraft-plugins#minigames)
 - [Quest plugin](https://github.com/Fickletcell/Best-minecraft-plugins#quest-plugin)
 - [Shops](https://github.com/Fickletcell/Best-minecraft-plugins#shops)
-- [Cosmetics]()
+- [Cosmetics](https://github.com/Fickletcell/Best-minecraft-plugins/blob/main/README.md#cosmetics)
 - [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other-1)
 - [Credits](https://github.com/Fickletcell/Best-minecraft-plugins#credits)
 ## Why made this?
