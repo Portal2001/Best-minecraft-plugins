@@ -348,5 +348,5 @@ This report is made to help those people who ask for best plugins for their use 
 - [papermc](https://discord.gg/papermc)
 ## I hope it helped you
 
-- https://ko-fi.com/fickletcell
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W870RAB)
 - https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
