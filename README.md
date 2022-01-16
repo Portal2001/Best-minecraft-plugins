@@ -282,6 +282,27 @@ This report is made to help those people who ask for best plugins for their use 
    - 7+ pets support
    - multi use cosmetic and player boots by pet.
    - level up system with power ups.
+## DeathChest
+- [Graves](https://www.spigotmc.org/resources/graves.74208/)
+   - Fully customizable(cant change death create from playerhead)
+   - support Hologram, Particles, GUI, PlaceholderAPI
+   - Sound Effects, Particle Effects
+   - playerhead lag is possibe
+- [AngelChest Free](https://www.spigotmc.org/resources/angelchest-free.60383/)
+   - 100% customizable
+   - support Hologram, Particles, PlaceholderAPI
+   - Sound Effects, Particle Effects
+   - death create is changeable
+   - paid one [AngelChest Plus](https://www.spigotmc.org/resources/%E2%AD%90-angelchest-plus-%E2%AD%90-death-chests-graveyards.88214/)
+- [Dead Souls](https://www.spigotmc.org/resources/dead-souls.69409/)
+   - Fully customizable(cant change death create from partical)
+   - Sound Effects, Particle Effects
+   - partical client lag is possibe
+   - new and cool concept
+- [ResurrectionChest](https://www.spigotmc.org/resources/resurrectionchest.57541/)
+   - Fully customizable(cant change death create from chest)
+   - Sound Effects, Particle Effects
+   - new and cool concept of pre-made chest
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
