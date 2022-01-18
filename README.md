@@ -14,6 +14,7 @@
 - [Quest plugin](https://github.com/Fickletcell/Best-minecraft-plugins#quest-plugin)
 - [Shops](https://github.com/Fickletcell/Best-minecraft-plugins#shops)
 - [Cosmetics](https://github.com/Fickletcell/Best-minecraft-plugins/blob/main/README.md#cosmetics)
+- [DeathChest](https://github.com/Fickletcell/Best-minecraft-plugins#deathchest)
 - [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other-1)
 - [Credits](https://github.com/Fickletcell/Best-minecraft-plugins#credits)
 ## Why made this?
