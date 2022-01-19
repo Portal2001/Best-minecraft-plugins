@@ -41,7 +41,7 @@ This report is made to help those people who ask for best plugins for their use 
    - paste schematics in no time
    - select area for other plugins(eg: worldguard)
    - large number of blocks manipulation with no lag
-   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/) have few bug to corrupts (heightmaps,world,etc)
+   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)(it works good but some updates) have few bug of corrupts (heightmaps,world,etc)
 - [LuckPerms](https://luckperms.net/)
    - lightweight
    - user friendly (have a web editor option). 
