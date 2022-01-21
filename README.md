@@ -36,7 +36,7 @@ This report is made to help those people who ask for best plugins for their use 
    - one of his own with no alternative
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
-   - one of his own with less alternative. (but this is effective).
+   - one of kind.
 - [WorldEdit for Bukkit](https://dev.bukkit.org/projects/worldedit/files)
    - paste schematics in no time
    - select area for other plugins(eg: worldguard)
@@ -56,7 +56,7 @@ This report is made to help those people who ask for best plugins for their use 
    - the only one which is still updated
    - helps to receive votes from voting sites.
 - [Geysermc](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/)
-   - one of his own with no alternative
+   - one of kind
    - help to connect java and bedrock 
    - lightweight with no client side lag
    - dedecated community
@@ -201,7 +201,7 @@ This report is made to help those people who ask for best plugins for their use 
 
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
    - free
-   - one of its own
+   - one of kind
    - have an addon like big server [SBA](https://www.spigotmc.org/resources/discontinued-sba-for-screaming-bedwars-1-9-4-1-17.79505/)
 - [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
    - paid
@@ -308,7 +308,7 @@ This report is made to help those people who ask for best plugins for their use 
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
-   - if full of features needed use [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
+   - if full list of features needed use [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
    - one of his own with no alternative
    - have a well defined page[wiki](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki)
