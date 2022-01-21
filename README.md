@@ -18,11 +18,11 @@
 - [Other](https://github.com/Fickletcell/Best-minecraft-plugins#other-1)
 - [Credits](https://github.com/Fickletcell/Best-minecraft-plugins#credits)
 ## Why made this?
-This report is made to help those people who ask for best plugins for their use in all minecraft discord servers.This will help people to get their best plugins for different fields. We focused more on 
+This report is made to help those people who ask for the best plugins for their use in all Minecraft discord servers. This will help people to get their best plugins for different fields. We focused more on 
    - free alternatives(paid is also there) 
    - up-to-date 1.18.1 runnable plugins 
   
-(please no hate to anyone it's just my point of view. You are also welcome to suggest).
+(please do not hate anyone it's just my point of view. You are also welcome to suggest).
 
 ## Basic Functions
 - [Essentialsx Family](https://essentialsx.net/)
@@ -33,7 +33,8 @@ This report is made to help those people who ask for best plugins for their use 
    - Very well [documented.](https://essinfo.xeya.me/permissions.html)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
-   - one of his own with no alternative
+   - Economy support iConomy 4,5,6, BOSEconomy 6 & 7, EssentialsEcon, 3Co, MultiCurrency, MineConomy, eWallet, EconXP, CurrencyCore, CraftConomy, AEco, Gringotts
+   - one of kind
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
    - one of kind.
@@ -50,7 +51,7 @@ This report is made to help those people who ask for best plugins for their use 
    - have addon for  portals
    - permission/money based world entry
 - [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
-   - one of his own with no alternative
+   - one of kind
    - allow any version of Minecraft to join the server.
 - [NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)
    - the only one which is still updated
