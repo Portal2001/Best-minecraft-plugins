@@ -107,7 +107,13 @@ This report is made to help those people who ask for best plugins for their use 
    - have auto old data clear system to prevent from corrupt.
    - in build inventory rollback
    - ore announcer(staff alert on any block place)
-   - it need database to work if you dont have then stick with [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+   - it need database to work if you dont have then stick with coreprotect
+- [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
+   - Advanced search-based lookup tool
+   - Fast efficient data logging
+   - dedicated [discord](https://discord.com/invite/b4DZ4jy)
+   - SQLite based data storage
+   - Lookup, rollback, or restore by a specific action
 
 ### Anticheat
 - [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti-cheat plugin 1.4 to 1.18.1.
