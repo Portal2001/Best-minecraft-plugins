@@ -33,7 +33,7 @@ This report is made to help those people who ask for the best plugins for their 
    - Very well [documented.](https://essinfo.xeya.me/permissions.html)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
-   - Economy support iConomy 4,5,6, BOSEconomy 6 & 7, EssentialsEcon, 3Co, MultiCurrency, MineConomy, eWallet, EconXP, CurrencyCore, CraftConomy, AEco, Gringotts
+   - Economy support:- iConomy 4,5,6, BOSEconomy 6 & 7, EssentialsEcon, 3Co, MultiCurrency, MineConomy, eWallet, EconXP, CurrencyCore, CraftConomy, AEco, Gringotts
    - one of kind
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
