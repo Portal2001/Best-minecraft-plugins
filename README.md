@@ -205,6 +205,9 @@ This report is made to help those people who ask for the best plugins for their 
    - support breaking of ore veins, trees, crops/farm.
    - support anti cheats are NoCheatPlus,matrix,Aac,spartan,antiaura.
    - flexible and lightweight plugin.
+- [Automated Crafting](https://www.spigotmc.org/resources/automated-crafting.70432/)
+   - CustomCrafting support
+   - hopper less means lag less
 ## Minigames
 
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
@@ -283,6 +286,11 @@ This report is made to help those people who ask for the best plugins for their 
    - WorldGuard, Towny, PlotSquared and Factions support.
    - Tax support
    - Multi-Currency and custom items supports.
+- [AdvancedRegionMarket](https://www.spigotmc.org/resources/advancedregionmarket.58732/)
+   - GUI based system
+   - regions as buy-, rent- or contractregions
+   - SignLinkingMode, autoprices and presets
+   - Entitylimits per region
 ## Cosmetics
 - [GadgetsMenu](https://www.spigotmc.org/resources/gadgetsmenu-1-8-1-17-1-free.10885/)
    - Most commonly used 
@@ -374,6 +382,11 @@ This report is made to help those people who ask for the best plugins for their 
    - Decimal win. chance
    - Support NPC, vault, HolographicDisplays
    - block particle effects support
+- [ItemJoin](https://www.spigotmc.org/resources/itemjoin.12661/)
+   - Supports custom features for player heads, tipped arrows, books, banners, fireworks, leather armor, map items, and more
+   - Dynamically updates support
+   - custom skull textures support
+   - all 3 slot usable.
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
