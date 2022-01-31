@@ -149,7 +149,9 @@ This report is made to help those people who ask for the best plugins for their 
 - [EntityDetection](https://www.spigotmc.org/resources/entitydetection-tile-entity-support.20588/) 
    - quick find chunks with a large number of Monsters
    - villager breeder center finder
-   
+- [AntiRaidFarm](https://www.spigotmc.org/resources/antiraidfarm-block-cheaty-infinite-raid-farms.83283/)
+   - Block cheaty infinite raid farms
+   - helps tp stop lags like too many entityin a chunk, too many item drop etc.
 ### Other
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/)
    -  Exemption of individual on basis of rank and UUID
@@ -387,6 +389,10 @@ This report is made to help those people who ask for the best plugins for their 
    - Dynamically updates support
    - custom skull textures support
    - all 3 slot usable.
+- [squaremap](https://github.com/jpenilla/squaremap)
+   - Ultra fast render times(super lightweight compared to other)
+   - 2D view, designed for navigation
+   - Addons for many popular plugins
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
