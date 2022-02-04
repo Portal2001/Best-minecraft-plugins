@@ -319,6 +319,10 @@ This report is made to help those people who ask for the best plugins for their 
    - Sound Effects, Particle Effects
    - partical client lag is possibe
    - new and cool concept
+- [ResurrectionChest](https://www.spigotmc.org/resources/resurrectionchest.57541/)
+   - Fully customizable(cant change death create from chest)
+   - Sound Effects, Particle Effects
+   - new and cool concept of pre-made chest
 ## Player stats
 - [Statz](https://www.spigotmc.org/resources/statz.25969/)
    - plugin to show player stats in leaderboard
@@ -328,10 +332,6 @@ This report is made to help those people who ask for the best plugins for their 
    - Works with PlaceHolderAPI
    - GUI and CHAT based and Rewards support
    - Holograms,PlaceHolderAPI,
-- [ResurrectionChest](https://www.spigotmc.org/resources/resurrectionchest.57541/)
-   - Fully customizable(cant change death create from chest)
-   - Sound Effects, Particle Effects
-   - new and cool concept of pre-made chest
 ## Other
 - [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
    - easy to use with all common features needed
