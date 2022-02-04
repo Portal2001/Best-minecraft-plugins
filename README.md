@@ -319,6 +319,15 @@ This report is made to help those people who ask for the best plugins for their 
    - Sound Effects, Particle Effects
    - partical client lag is possibe
    - new and cool concept
+## Player stats
+- [Statz](https://www.spigotmc.org/resources/statz.25969/)
+   - plugin to show player stats in leaderboard
+   - tracks data from vanilla Minecraft statistics
+   - support PlaceholderAPI
+- [ATopPlayers](https://www.spigotmc.org/resources/atopplayers-create-leaderboards-for-kills-deaths-time-diamond-e-t-c.93996/)
+   - Works with PlaceHolderAPI
+   - GUI and CHAT based and Rewards support
+   - Holograms,PlaceHolderAPI,
 - [ResurrectionChest](https://www.spigotmc.org/resources/resurrectionchest.57541/)
    - Fully customizable(cant change death create from chest)
    - Sound Effects, Particle Effects
@@ -354,10 +363,6 @@ This report is made to help those people who ask for the best plugins for their 
    - support leaderboard, signs and heads
    - support of PlaceholderAPI and GriefPrevention
    - support for rank, balance , claim-blocks bases tax.
-- [Statz](https://www.spigotmc.org/resources/statz.25969/)
-   - plugin to show player stats in leaderboard
-   - tracks data from vanilla Minecraft statistics
-   - support PlaceholderAPI
 - [Server Tutorial Plus](https://www.spigotmc.org/resources/server-tutorial-plus.37741/)
    - unique way of introducing your server
    - support reward system 
