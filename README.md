@@ -156,6 +156,8 @@ This report is made to help those people who ask for the best plugins for their 
    - store mob spawners in gui and produce mobs in gui
    - Spawner Collectors are asynchronous
    - help in performance improvement
+
+guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-lag-prevention/blob/main/README.md) click to see
 ### Other
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/)
    -  Exemption of individual on basis of rank and UUID
