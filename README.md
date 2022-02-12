@@ -152,6 +152,10 @@ This report is made to help those people who ask for the best plugins for their 
 - [AntiRaidFarm](https://www.spigotmc.org/resources/antiraidfarm-block-cheaty-infinite-raid-farms.83283/)
    - Block cheaty infinite raid farms
    - helps tp stop lags like too many entityin a chunk, too many item drop etc.
+- [Spawner Collectors](https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/)
+   - store mob spawners in gui and produce mobs in gui
+   - Spawner Collectors are asynchronous
+   - help in performance improvement
 ### Other
 - [KauriVPN](https://www.spigotmc.org/resources/kaurivpn-anti-proxy-tor-and-vpn-free-api.93355/)
    -  Exemption of individual on basis of rank and UUID
