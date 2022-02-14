@@ -308,6 +308,10 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - 7+ pets support
    - multi use cosmetic and player boots by pet.
    - level up system with power ups.
+- [PlayerParticles](https://www.spigotmc.org/resources/playerparticles.40261/)
+   - 32 effects
+   - GUI based
+   - lag free
 ## DeathChest
 - [Graves](https://www.spigotmc.org/resources/graves.74208/)
    - Fully customizable(cant change death create from playerhead)
