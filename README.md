@@ -229,7 +229,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - TNT, Fireball jump
    - Really low resource usage
    - used by the biggest server owner
-- [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/)
+- [SkywarsReloaded](https://github.com/boiscljo/SBA)
    - free
    - nearly better the paid
    - lots of features
