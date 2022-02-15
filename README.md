@@ -221,7 +221,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 - [Screaming BedWars](https://www.spigotmc.org/resources/screaming-bedwars-1-9-4-1-18-1.63714/)
    - free
    - one of kind
-   - have an addon like big server [SBA](https://www.spigotmc.org/resources/discontinued-sba-for-screaming-bedwars-1-9-4-1-17.79505/)
+   - have an addon like big server [SBA](https://github.com/boiscljo/SBA)
 - [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
    - paid
    - easy to setup
