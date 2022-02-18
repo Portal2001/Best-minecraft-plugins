@@ -258,12 +258,8 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - unique games and free
 - [Spleef](https://www.spigotmc.org/resources/spleef.61787/)
    - unique games and free
-- [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/)
-   - unique games but not free one of its own
 - [HungerGames](https://www.spigotmc.org/resources/hungergames.65942/)
-   - unique games and free
-- [Arcade Minigames](https://www.spigotmc.org/resources/%E2%9E%A2-arcade-minigames.49093/)
-   - paid but lots of minigames packs 
+   - unique games and free 
 - [TNTRun_reloaded](https://www.spigotmc.org/resources/tntrun_reloaded-tntrun-for-1-13-1-18.53359/)
    - unique games and free
 - [PixelPrinter](https://www.spigotmc.org/resources/pixelprinter.29760/)
@@ -272,6 +268,13 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
   - unique games and free
 - [Murder Mystery](https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/)
    - unique games and free
+### Paid minigames
+- [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/)
+   - unique games but not free
+- [Arcade Minigames](https://www.spigotmc.org/resources/%E2%9E%A2-arcade-minigames.49093/)
+   - paid but lots of minigames packs
+- [RandomEvents](https://www.spigotmc.org/resources/%E2%9C%A8-randomevents-1-8-1-18-%E2%9C%A8-perfect-minigame-addon.80856/)
+   - paid but lots of minigames packs
 ## Quest plugin
 - [Quests](https://www.spigotmc.org/resources/quests-1-8-1-18-set-up-goals-for-players.23696/)
    - complex quest system
@@ -283,6 +286,8 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Challenge Generator
    - Citizens and PlaceholderAPI integration
    - easy to use
+- [BattlePass](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%90-battlepass-%E2%AD%90-practical-customizable-quests-%E2%9A%94%EF%B8%8F-30-sale-%E2%9A%94%EF%B8%8F.63076/)
+   - Paid Quest plugin
 ## Shops
 - [EconomyShopGUI](https://www.spigotmc.org/resources/economyshopgui.69927/)
    - Premade shop configurations for all versions
