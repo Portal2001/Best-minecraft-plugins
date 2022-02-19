@@ -388,6 +388,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - 3 level gui including player inventory
    - support Placeholder API, Vault,BungeeCord,Head Database,MMOItems,Custom Items,VotingPlugin,TokenManager.
    - well described [wiki](https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki/dependencies).
+   - addon plugin for bedrock/pocket player which uses geysermc and floodgates [FloodgateCP](https://www.spigotmc.org/resources/floodgatecp.96902/)
    - alternative [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
 - [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-18-1.61163/)
    - colour code and hex colour support
