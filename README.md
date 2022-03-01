@@ -268,6 +268,8 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
   - unique games and free
 - [Murder Mystery](https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/)
    - unique games and free
+- [Parkour](https://www.spigotmc.org/resources/parkour.23685/)
+   - unique games and free
 ### Paid minigames
 - [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/)
    - unique games but not free
