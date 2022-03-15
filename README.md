@@ -416,6 +416,11 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Ultra fast render times(super lightweight compared to other)
    - 2D view, designed for navigation
    - Addons for many popular plugins
+- [UnifiedMetrics](https://www.spigotmc.org/resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/)
+   - Platform-agnostic & compatible with popular platforms. Get the same metrics and features on any supported platform.
+   - Monitor your server in real-time with Prometheus/InfluxDB and provided Grafana dashboards.
+   - High performance metric collection. Low to none performance impact on the server's performance.
+   - Free and open-source. The code is free and open for anyone to audit and contribute to.
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
