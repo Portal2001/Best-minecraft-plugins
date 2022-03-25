@@ -123,6 +123,10 @@ This report is made to help those people who ask for the best plugins for their 
    - support mcmmo and NPC plugins
    - highly configurable
    - free
+- [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/)
+   - free for now and open source
+   - have 0.0001 pression
+   - under development in [discord]()
 - [Vulcan Anti-Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
    - paid
    - Client Brand detection
