@@ -190,7 +190,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - supported: Enchanting Table, Anvils, Villagers, Grindstones, Loot
    - Enchants for all tools and armor
    - 50+ enchants
-- [Tweakin](https://www.spigotmc.org/resources/tweakin-1-17-1-18.93444/)
+- [Teak's Tweaks](https://www.spigotmc.org/resources/teaks-tweaks-1-17-1-18.94021/)
    - More Recipes
    - more tools
    - custom item and use
