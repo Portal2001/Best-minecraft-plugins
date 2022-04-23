@@ -431,4 +431,4 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 ## I hope it helped you
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W870RAB)
-- https://paypal.me/fickletcell?country.x=IN&locale.x=en_GB
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fickletcell?)
