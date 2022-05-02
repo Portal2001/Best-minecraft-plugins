@@ -365,6 +365,10 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Allow the execution of commands
    - Economy support
    - BungeeCord features
+- [Jake's RTP]
+   - Fast rtp plugin
+   - easy to configure
+   - support World Guard,Grief Prevention,Husk Towns,Lands
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
    - 23 jobs to earn from
    - GUI support
