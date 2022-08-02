@@ -433,5 +433,3 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
 ## I hope it helped you
-
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fickletcell?)
