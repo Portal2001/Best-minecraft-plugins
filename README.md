@@ -20,7 +20,7 @@
 ## Why made this?
 This report is made to help those people who ask for the best plugins for their use in all Minecraft discord servers. This will help people to get their best plugins for different fields. We focused more on 
    - free alternatives(paid is also there) 
-   - up-to-date 1.18.1 runnable plugins 
+   - up-to-date 1.19.2 runnable plugins 
   
 (please do not hate anyone it's just my point of view. You are also welcome to suggest).
 
@@ -35,15 +35,14 @@ This report is made to help those people who ask for the best plugins for their 
    - helps to transfer money
    - Economy support:- iConomy 4,5,6, BOSEconomy 6 & 7, EssentialsEcon, 3Co, MultiCurrency, MineConomy, eWallet, EconXP, CurrencyCore, CraftConomy, AEco, Gringotts
    - A dependancy for many plugins.
-   - one of kind
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
    - one of kind.
-- [WorldEdit for Bukkit](https://dev.bukkit.org/projects/worldedit/files)
+- [WorldEdit](https://dev.bukkit.org/projects/worldedit/files)
    - paste schematics in no time
    - select area for other plugins(eg: worldguard)
    - large number of blocks manipulation with no lag
-   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)(it works good but some updates) have few bug of corrupts (heightmaps,world,etc)
+   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)(it works good but some updates) have few bug of corrupts (heightmaps,etc)
 - [LuckPerms](https://luckperms.net/)
    - lightweight
    - user friendly (have a web editor option). 
@@ -62,6 +61,13 @@ This report is made to help those people who ask for the best plugins for their 
    - help to connect java and bedrock 
    - lightweight with no client side lag
    - dedecated community
+- [Censura](https://www.spigotmc.org/resources/censura.84123/)
+   - Smart chat filter
+   - regex support
+   - name check and Punishment support
+- [ChatSentinel](https://builtbybit.com/resources/chatsentinel-block-swearing-spamming.23698/)
+   - regex support
+   - Caps,flood,syntax checks
 ## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
@@ -76,11 +82,6 @@ This report is made to help those people who ask for the best plugins for their 
    - lightweight compared to other
    - teleport system  
    - can pull Biome selections from an image
-- [[] Oh The Dungeons You'll Go](https://www.spigotmc.org/resources/oh-the-dungeons-youll-go.76437/) best custom dungeon generator.
-  - one of his own with less alternative.
-  - 6 Dungeon Types with 70 dungeon themes
-  - Custom Schematic Support
-  - Custom Loot support
 - [More Ores](https://www.spigotmc.org/resources/%E2%9B%8F%EF%B8%8Fmore-ores%E2%9B%8F%EF%B8%8F.77221/)
    - lightweight ore spawn
    - can generate in a loaded chunk
@@ -104,12 +105,6 @@ This report is made to help those people who ask for the best plugins for their 
    - Set additional game rules on your server/on an area
    - Protects against many types of grief for server owners
    - lightweight on management
-- [Prism](https://www.spigotmc.org/resources/prism.75166/) best rollback plugin.
-   - takes less space in logs storage
-   - have auto old data clear system to prevent from corrupt.
-   - in build inventory rollback
-   - ore announcer(staff alert on any block place)
-   - it need database to work if you dont have then stick with coreprotect
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
    - Advanced search-based lookup tool
    - Fast efficient data logging
@@ -123,10 +118,9 @@ This report is made to help those people who ask for the best plugins for their 
    - support mcmmo and NPC plugins
    - highly configurable
    - free
-- [Grim](https://www.spigotmc.org/resources/grim-anticheat.99923/)
-   - free for now and open source
-   - have 0.0001 pression
-   - under development in [discord](https://discord.gg/eXd3zyNYtv)
+- [Themis Anti Cheat](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/)
+   - Supports java and bedrock both players
+   - lightweight and less false on checks
 - [Vulcan Anti-Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
    - paid
    - Client Brand detection
@@ -160,6 +154,9 @@ This report is made to help those people who ask for the best plugins for their 
    - store mob spawners in gui and produce mobs in gui
    - Spawner Collectors are asynchronous
    - help in performance improvement
+- [Redstone Clock Detector](https://dev.bukkit.org/projects/redstone-clock-detector)
+   - finds redstone clocks
+   - can Teleport on redstone clock location
 
 guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-lag-prevention/blob/main/README.md) click to see
 ### Other
@@ -186,16 +183,14 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Create your own bosses
    - one of his own with less alternative. (but this is effective).
    - light weight and lots of customization
-- [ExcellentEnchants](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments-1-16-1-18.61693/)
-   - supported: Enchanting Table, Anvils, Villagers, Grindstones, Loot
-   - Enchants for all tools and armor
-   - 50+ enchants
-- [Teak's Tweaks](https://www.spigotmc.org/resources/teaks-tweaks-1-17-1-18.94021/)
+- [Tweakin](https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/)
+   - Better Bone Meal,Anvil Repair,Better Recovery Compass,Cauldron Concrete
    - More Recipes
-   - more tools
-   - custom item and use
-   - lightweight 
+   - Total 45 unique features
+- [Teak's Tweaks](https://www.spigotmc.org/resources/teaks-tweaks-1-17-1-18.94021/)
+   - More Recipes, more tools, custom item and use
    - no texture pack is needed
+   - total 88 unique features 
 - [Multitool Plus](https://www.spigotmc.org/resources/multitool-plus-1-13-1-17.62509/)
    - no lag in switching tools
    - GUI for tools storage
@@ -205,10 +200,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    -  permission-based
    -  GUI interface
    -  useful in survival
-- [HandyOrbs](https://www.spigotmc.org/resources/handyorbs.78236/)
-   - floating orbs like big skyblock server
-   - good for skyblock and one block
-   - auto plant feature
 - [Slimefun](https://github.com/Slimefun/Slimefun4)
    - custom Weapons,Items,Food,Basic Machines,Resources,Tools,Armor,Magical Armor,Magical Items,Magical Gadgets,Talismans,Technical,Components,Miscellaneous,Energy&Electricity,GPS,Technical Gadgets,Programmable Androids,Cargo Management,Seasonal Categories
    - mod like feeling in one plugin
@@ -287,11 +278,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - GUI interface
    - 30+ types
    - PlaceholderAPI integration
-- [GoldenChallenges](https://www.spigotmc.org/resources/goldenchallenges-%E2%80%A2-advanced-challenges-for-your-players-1-16-1-18.85028/)
-   - 15+ types 
-   - Challenge Generator
-   - Citizens and PlaceholderAPI integration
-   - easy to use
 - [BattlePass](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%90-battlepass-%E2%AD%90-practical-customizable-quests-%E2%9A%94%EF%B8%8F-30-sale-%E2%9A%94%EF%B8%8F.63076/)
    - Paid Quest plugin
 ## Shops
@@ -335,11 +321,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Sound Effects, Particle Effects
    - death create is changeable
    - paid one [AngelChest Plus](https://www.spigotmc.org/resources/%E2%AD%90-angelchest-plus-%E2%AD%90-death-chests-graveyards.88214/)
-- [Dead Souls](https://www.spigotmc.org/resources/dead-souls.69409/)
-   - Fully customizable(cant change death create from partical)
-   - Sound Effects, Particle Effects
-   - partical client lag is possibe
-   - new and cool concept
 - [ResurrectionChest](https://www.spigotmc.org/resources/resurrectionchest.57541/)
    - Fully customizable(cant change death create from chest)
    - Sound Effects, Particle Effects
@@ -352,11 +333,12 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 - [ATopPlayers](https://www.spigotmc.org/resources/atopplayers-create-leaderboards-for-kills-deaths-time-diamond-e-t-c.93996/)
    - Works with PlaceHolderAPI
    - GUI and CHAT based and Rewards support
-   - Holograms,PlaceHolderAPI,
+   - Holograms,PlaceHolderAPI
 ## Other
-- [SuperbVote](https://www.spigotmc.org/resources/superbvote.11626/)
-   - easy to use with all common features needed
-   - if full list of features needed use [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
+- [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
+   - many features
+   - vote party,auto voting site register,rank support
+   - vote shop in build
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
    - one of his own with no alternative
    - have a well defined page[wiki](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki)
@@ -365,10 +347,10 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Allow the execution of commands
    - Economy support
    - BungeeCord features
-- [Jake's RTP]
+- [Random Teleport](https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/)
    - Fast rtp plugin
    - easy to configure
-   - support World Guard,Grief Prevention,Husk Towns,Lands
+   - support World Guard,Grief Prevention,Husk Towns,Lands and more
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
    - 23 jobs to earn from
    - GUI support
@@ -410,11 +392,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - it is read chunk directly from the region cache
    - Automatically adapt to the player internet speed
    - asynchronous
-- [ExcellentCrates](https://www.spigotmc.org/resources/excellentcrates-advanced-custom-crates-1-16-1-18.48732/)
-   - Up to 27 custom items
-   - Decimal win. chance
-   - Support NPC, vault, HolographicDisplays
-   - block particle effects support
 - [ItemJoin](https://www.spigotmc.org/resources/itemjoin.12661/)
    - Supports custom features for player heads, tipped arrows, books, banners, fireworks, leather armor, map items, and more
    - Dynamically updates support
@@ -432,4 +409,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
+- Michael (format suggestion)
+- itsmemac (few plugin PR)
 ## I hope it helped you
