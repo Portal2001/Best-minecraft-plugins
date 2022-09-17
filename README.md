@@ -62,11 +62,12 @@ This report is made to help those people who ask for the best plugins for their 
    - lightweight with no client side lag
    - dedecated community
 - [Censura](https://www.spigotmc.org/resources/censura.84123/)
-   - Smart chat filter
+   - Smart chat,signs,books,anvil filter
    - regex support
-   - name check and Punishment support
+   - multi chat spam filter
 - [ChatSentinel](https://builtbybit.com/resources/chatsentinel-block-swearing-spamming.23698/)
    - regex support
+   - chat only
    - Caps,flood,syntax checks
 ## Chunk Generation
 
