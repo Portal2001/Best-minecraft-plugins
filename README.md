@@ -407,6 +407,51 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Monitor your server in real-time with Prometheus/InfluxDB and provided Grafana dashboards.
    - High performance metric collection. Low to none performance impact on the server's performance.
    - Free and open-source. The code is free and open for anyone to audit and contribute to.
+## List of plugins to replace Plugin CMI
+
+1. EssentialsX
+2. Decent Holograms
+3. Multiverse-Core
+4. Multiverse-Portals
+5. Worldedit
+6. Advanced Armor Stands
+7. Rankup
+8. TAB
+9. AnnouncerPlus
+10. Colored Armors/Rambow armors
+11. TempFly 
+12. mycommand
+13. commandwhitelist
+14. EconomyShopGUI
+15. Citizens
+16. Enchantment Disabler - GUI Based
+17. Auto totem (Not recomended/needed)
+18. PictureLogin-Continued (Not recomended)
+19. ATopPlayers
+20. PlayTimeRewards
+21. OpenInv
+22. launchpad
+23. ViewDistanceTweaks
+24. CustomCrafting
+25. maintenance
+26. VentureChat/SoaromaCH
+27. HorseTpWithMe
+28. Gsit
+29. Minepacks
+30. Harbor
+31. KauriVPN
+32. clearlag (not recomended)
+33. mycommand
+34. mini motd
+35. OldCombatMechanics
+36. InteractiveChat
+37. lagassist (not recomended)
+38. Teak's Tweaks+Tweakin
+39. PlayerHeads
+40. Inventory Rollback Plus
+and fearures of purpur server software 
+(These are the Best Plugins to Replace with and Some are not recomended due to bad effect on server/useless features)
+
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
 - [papermc](https://discord.gg/papermc)
