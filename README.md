@@ -450,6 +450,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 39. PlayerHeads
 40. Inventory Rollback Plus
 and fearures of purpur server software 
+
 (These are the Best Plugins to Replace with and Some are not recomended due to bad effect on server/useless features)
 
 ## Credits 
