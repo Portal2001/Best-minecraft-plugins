@@ -327,14 +327,10 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Sound Effects, Particle Effects
    - new and cool concept of pre-made chest
 ## Player stats
-- [Statz](https://www.spigotmc.org/resources/statz.25969/)
+- [ajLeaderboards](https://www.spigotmc.org/resources/ajleaderboards.85548/)
    - plugin to show player stats in leaderboard
    - tracks data from vanilla Minecraft statistics
-   - support PlaceholderAPI
-- [ATopPlayers](https://www.spigotmc.org/resources/atopplayers-create-leaderboards-for-kills-deaths-time-diamond-e-t-c.93996/)
-   - Works with PlaceHolderAPI
-   - GUI and CHAT based and Rewards support
-   - Holograms,PlaceHolderAPI
+   - support PlaceholderAPI, sign, npc
 ## Other
 - [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
    - many features
