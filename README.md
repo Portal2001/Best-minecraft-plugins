@@ -173,6 +173,9 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 - [Illegal Stack Remover](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/)
    -  useful for **spigot** server only.
    -  stop almost all dupe
+- [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/)
+   - Allow selected commands per rank
+   - prevention of exploits related to commands
  
 ## Non-vanilla fun
 - [EliteMobs](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
@@ -227,7 +230,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - used by the biggest server owner
 - [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/)
    - free
-   - nearly better the paid
+   - nearly better then paid
    - lots of features
 - [EggWars](https://www.spigotmc.org/resources/free-eggwars-mini-game-remastered.97569/)
    - free left as free
