@@ -20,7 +20,7 @@
 ## Why made this?
 This report is made to help those people who ask for the best plugins for their use in all Minecraft discord servers. This will help people to get their best plugins for different fields. We focused more on 
    - free alternatives(paid is also there) 
-   - up-to-date 1.19.2 runnable plugins 
+   - up-to-date 1.20.4 runnable plugins 
   
 (please do not hate anyone it's just my point of view. You are also welcome to suggest).
 
@@ -28,28 +28,30 @@ This report is made to help those people who ask for the best plugins for their 
 - [Essentialsx Family](https://essentialsx.net/)
    - It has 130 common commands that players expect to have.
    - Things like teleporting, Buy and Sell signs, basic chat formatting, economy features (requires Vault) and more.
-   - Light-weight compared to something like CMI.
+   - Lightweight compared to something like CMI.
    - It's popular meaning getting support is very easy.
    - Very well [documented.](https://essinfo.xeya.me/permissions.html)
+   - alternative [SunLight](https://www.spigotmc.org/resources/sunlight-best-essentials-cmi-alternative.67733/)
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
    - helps to transfer money
    - Economy support:- iConomy 4,5,6, BOSEconomy 6 & 7, EssentialsEcon, 3Co, MultiCurrency, MineConomy, eWallet, EconXP, CurrencyCore, CraftConomy, AEco, Gringotts
-   - A dependancy for many plugins.
+   - A dependency for many plugins.
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
    - best packet reader plugin.
    - one of kind.
 - [WorldEdit](https://dev.bukkit.org/projects/worldedit/files)
    - paste schematics in no time
    - select area for other plugins(eg: worldguard)
-   - large number of blocks manipulation with no lag
-   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)(it works good but some updates) have few bug of corrupts (heightmaps,etc)
+   - A large number of block manipulations with no lag
+   - [Fast Async WorldEdit](https://www.spigotmc.org/resources/fast-async-worldedit.13932/)(it works good but some updates in past got major bugs)
 - [LuckPerms](https://luckperms.net/)
    - lightweight
-   - user friendly (have a web editor option). 
-- [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/)
+   - user-friendly (have a web editor option). 
+- [MyWorlds](https://www.spigotmc.org/resources/myworlds.39594/)
    - lightweight world manager
-   - have addon for  portals
-   - permission/money based world entry
+   - have built-in  portals
+   - built-in per world inventory
+   - alternative [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/)
 - [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)
    - one of kind
    - allow any version of Minecraft to join the server.
@@ -58,17 +60,13 @@ This report is made to help those people who ask for the best plugins for their 
    - helps to receive votes from voting sites.
 - [Geysermc](https://www.spigotmc.org/resources/geyser-minecraft-bedrock-protocol-support.81297/)
    - one of kind
-   - help to connect java and bedrock 
-   - lightweight with no client side lag
-   - dedecated community
+   - help to connect Java and bedrock 
+   - lightweight with no client-side lag
+   - dedicated community
 - [Censura](https://www.spigotmc.org/resources/censura.84123/)
-   - Smart chat,signs,books,anvil filter
+   - Smart chat, signs, books, anvil filter
    - regex support
-   - multi chat spam filter
-- [ChatSentinel](https://builtbybit.com/resources/chatsentinel-block-swearing-spamming.23698/)
-   - regex support
-   - chat only
-   - Caps,flood,syntax checks
+   - Multi-chat spam filter
 ## Chunk Generation
 
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
@@ -88,10 +86,11 @@ This report is made to help those people who ask for the best plugins for their 
    - can generate in a loaded chunk
    - have an addon to make own ore
    - support all 3 world
-- [TerraformGenerator [Alpha]](https://www.spigotmc.org/resources/terraformgenerator-alpha.75132/)
-   - have more biomes than any other plugin
+- Data packs
+   - have more biomes than any other plugin(flexible)
    - have its own structures
-   - ready to use for survival but not lightweight
+   - ready-to-use and lightweight
+   - can be used multiple at once
  
 ## Anti Grief
 
@@ -101,26 +100,31 @@ This report is made to help those people who ask for the best plugins for their 
    - lightweight
    - have many flags to protect a claim(pet,death loot,lava,water,etc)
    - have auto-ban feature
-   - have many addons (like for: flags,auto inv,etc)
+   - have many addons (like for: flags, auto inv, etc)
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard)
-   - Set additional game rules on your server/on an area
+   - Set additional game rules on your server/in an area
    - Protects against many types of grief for server owners
    - lightweight on management
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)
    - Advanced search-based lookup tool
    - Fast efficient data logging
    - dedicated [discord](https://discord.com/invite/b4DZ4jy)
-   - SQLite based data storage
+   - SQLite-based data storage
    - Lookup, rollback, or restore by a specific action
 
 ### Anticheat
-- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti-cheat plugin 1.4 to 1.18.1.
+- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus) best free anti-cheat plugin 1.8 to 1.20.
    - lightweight on processes
    - support mcmmo and NPC plugins
    - highly configurable
    - free
+- [GrimAC](https://hangar.papermc.io/GrimAnticheat/GrimAnticheat)
+   - free
+   - modern anti-cheat
+   - 1:1 replication of the player's possible movements
+   - (best free anti-cheat till date)
 - [Themis Anti Cheat](https://www.spigotmc.org/resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/)
-   - Supports java and bedrock both players
+   - Supports Java and Bedrock both players
    - lightweight and less false on checks
 - [Vulcan Anti-Cheat](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-18-1.83626/)
    - paid
@@ -129,9 +133,18 @@ This report is made to help those people who ask for the best plugins for their 
    - Discord Integration
    - lightweight
    - In-Game GUI
-
+- [OreAnnouncer](https://www.spigotmc.org/resources/oreannouncer-collects-data-about-mined-blocks.33464/)
+   - Send an alert whenever a player digs a block
+   - good against xray hacks
+- [XCatch](https://www.spigotmc.org/resources/xcatch-anti-xray-1-13-1-19.101227/)
+   - best against bot mining
+   - good against xray hacks
+   - gui based
+- [RayTraceAntiXray](https://builtbybit.com/resources/raytraceantixray.24914/)
+   - Best against bot as well as xray
+   - paid
 ### Performance Management
-- [Insights](https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-18.56489/)
+- [Insights](https://modrinth.com/plugin/insights)
    - Asynchronous Scans
    - limits per chunk permission-based
    - WorldEdit,BentoBoxWorldAddon,USkyBlockAddon ,IridiumSkyblockAddon,LandsAddon,TownyAddon... limiter support
@@ -170,9 +183,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Async teleportation to death point
    - no lag
    - support purpur 6 rows
-- [Illegal Stack Remover](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/)
-   -  useful for **spigot** server only.
-   -  stop almost all dupe
 - [CommandWhitelist](https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/)
    - Allow selected commands per rank
    - prevention of exploits related to commands
@@ -269,6 +279,8 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - unique games and free
 - [Parkour](https://www.spigotmc.org/resources/parkour.23685/)
    - unique games and free
+- [ElytraRacing](https://www.spigotmc.org/resources/elytraracing-custom-elytra-race-1-9-4-1-20-%E2%9C%85-700-customizable-parameters-free.114063/)
+   - unique games and free
 ### Paid minigames
 - [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/)
    - unique games but not free
@@ -282,6 +294,10 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - GUI interface
    - 30+ types
    - PlaceholderAPI integration
+- [RandomChallenge](https://modrinth.com/plugin/randomchallange)
+   - total of 9 challanges
+   - every 9 challange can have more inside like list of blocks
+   - unique challenges like 'first person to break end stone wins'
 - [BattlePass](https://www.spigotmc.org/resources/1-8-1-18-1-%E2%AD%90-battlepass-%E2%AD%90-practical-customizable-quests-%E2%9A%94%EF%B8%8F-30-sale-%E2%9A%94%EF%B8%8F.63076/)
    - Paid Quest plugin
 ## Shops
@@ -337,7 +353,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
 ## Other
 - [VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)
    - many features
-   - vote party,auto voting site register,rank support
+   - vote party, auto voting site register,rank support
    - vote shop in build
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
    - one of his own with no alternative
@@ -347,14 +363,24 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Allow the execution of commands
    - Economy support
    - BungeeCord features
+- [LibertyBans](https://www.spigotmc.org/resources/libertybans.81063/)
+   - ban management plugin
+   - Temporary versions of bans, mutes, and warns
+- [clickaccept](https://modrinth.com/plugin/clickaccept)
+   - addon plugin for any teleporting plugin give a chat gui
+   - accept/deny tp by clicking in chat
 - [Random Teleport](https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/)
    - Fast rtp plugin
    - easy to configure
-   - support World Guard,Grief Prevention,Husk Towns,Lands and more
+   - support World Guard,GriefPrevention,Husk Towns,Lands and more
 - [Jobs Reborn](https://www.spigotmc.org/resources/jobs-reborn.4216/)
    - 23 jobs to earn from
    - GUI support
    - other plugin integration such as mcmmo and MythicMobs
+- [InteractiveChat](https://www.spigotmc.org/resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/)
+   - item, inventory and enderchest sharing in chat
+   - title on ping in chat
+   - discord integration [addon](https://www.spigotmc.org/resources/interactivechat-discordsrv-addon-show-items-and-invs-on-discord-preview-discord-images-in-game.83917/)
 - [Aurelium Skills](https://www.spigotmc.org/resources/aurelium-skills-advanced-skills-stats-abilities-and-more.81069/)
    - best free replacement for mcmmo
    - 15+ skills available
@@ -375,29 +401,26 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - support reward system 
    - unlimited tutorials and view points
    - support NPC and lightweight
-- [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/)
-   - In-game Editor and creater of Gui
-   - 3 level gui including player inventory
-   - support Placeholder API, Vault,BungeeCord,Head Database,MMOItems,Custom Items,VotingPlugin,TokenManager.
-   - well described [wiki](https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki/dependencies).
-   - addon plugin for bedrock/pocket player which uses geysermc and floodgates [FloodgateCP](https://www.spigotmc.org/resources/floodgatecp.96902/)
-   - alternative [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
+- [zMenu](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/)
+   - In-game and web Editor and creator of Gui
+   - have best anti-dupe system
+   - marketplace to download configurations
+   - alternative [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/) and [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
+- [Keydupe]
+   - unique addon plugin for any crates plugin
+   - helps to detect duped keys
+   - downside is after this keys will not stake together
 - [BookNews](https://www.spigotmc.org/resources/booknews-1-8-1-18-1.61163/)
    - colour code and hex colour support
    - Clickable/Hover text supported
    - Placeholder supported
    - automatic book open feature on player join
-- [FartherViewDistance](https://www.spigotmc.org/resources/fartherviewdistance.84950/)
-   - This allows players to view a larger distance of chunks with less lag
-   - it is read chunk directly from the region cache
-   - Automatically adapt to the player internet speed
-   - asynchronous
 - [ItemJoin](https://www.spigotmc.org/resources/itemjoin.12661/)
    - Supports custom features for player heads, tipped arrows, books, banners, fireworks, leather armor, map items, and more
    - Dynamically updates support
    - custom skull textures support
    - all 3 slot usable.
-- [squaremap](https://github.com/jpenilla/squaremap)
+- [squaremap](https://modrinth.com/plugin/squaremap/versions)
    - Ultra fast render times(super lightweight compared to other)
    - 2D view, designed for navigation
    - Addons for many popular plugins
@@ -406,51 +429,15 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Monitor your server in real-time with Prometheus/InfluxDB and provided Grafana dashboards.
    - High performance metric collection. Low to none performance impact on the server's performance.
    - Free and open-source. The code is free and open for anyone to audit and contribute to.
-## List of plugins to replace Plugin CMI
-
-1. EssentialsX
-2. Decent Holograms
-3. Multiverse-Core
-4. Multiverse-Portals
-5. Worldedit
-6. Advanced Armor Stands
-7. Rankup
-8. TAB
-9. AnnouncerPlus
-10. Colored Armors/Rambow armors
-11. TempFly 
-12. mycommand
-13. commandwhitelist
-14. EconomyShopGUI
-15. Citizens
-16. Enchantment Disabler - GUI Based
-17. Auto totem (Not recomended/needed)
-18. PictureLogin-Continued (Not recomended)
-19. ATopPlayers
-20. PlayTimeRewards
-21. OpenInv
-22. launchpad
-23. ViewDistanceTweaks
-24. CustomCrafting
-25. maintenance
-26. VentureChat/SoaromaCH
-27. HorseTpWithMe
-28. Gsit
-29. Minepacks
-30. Harbor
-31. KauriVPN
-32. clearlag (not recomended)
-33. mycommand
-34. mini motd
-35. OldCombatMechanics
-36. InteractiveChat
-37. lagassist (not recomended)
-38. Teak's Tweaks+Tweakin
-39. PlayerHeads
-40. Inventory Rollback Plus
-and fearures of purpur server software 
-
-(These are the Best Plugins to Replace with and Some are not recomended due to bad effect on server/useless features)
+- [Papervoucher](https://modrinth.com/plugin/paper-currency-banknote-with-anti-dupe)
+   - robust anti-dupe system
+   - free
+   - Automated punishment for attempted currency duplication
+   - Discord webhook alerts
+- [PaperVoucher](https://modrinth.com/plugin/papervoucher)
+   - robust anti-dupe system
+   - free
+   - alternative [Voucher](https://www.spigotmc.org/resources/vouchers-the-ultimate-voucher-plugin.89864/) best gui interface just lakes anti-dupe
 
 ## Credits 
 - [syscraft](https://discord.gg/MBjfSzbN5F)
