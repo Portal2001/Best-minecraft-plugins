@@ -171,6 +171,10 @@ This report is made to help those people who ask for the best plugins for their 
 - [Redstone Clock Detector](https://dev.bukkit.org/projects/redstone-clock-detector)
    - finds redstone clocks
    - can Teleport on redstone clock location
+- [Advanced SlimeWorldManager](https://www.spigotmc.org/resources/advanced-slimeworldmanager.87209/)
+   - faster world loading
+   - less memory usage
+   - not recommend to only add lobby world have atleast 5+ worlds so its not a load on server
 
 guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-lag-prevention/blob/main/README.md) click to see
 ### Other
@@ -231,13 +235,6 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - free
    - one of kind
    - have an addon like big server [SBA](https://github.com/boiscljo/SBA)
-- [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
-   - paid
-   - easy to setup
-   - multiple areas in one world support
-   - TNT, Fireball jump
-   - Really low resource usage
-   - used by the biggest server owner
 - [SkywarsReloaded](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-17-support-new-features-1-8x-1-17x.69436/)
    - free
    - nearly better then paid
@@ -281,9 +278,23 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - unique games and free
 - [ElytraRacing](https://www.spigotmc.org/resources/elytraracing-custom-elytra-race-1-9-4-1-20-%E2%9C%85-700-customizable-parameters-free.114063/)
    - unique games and free
+- [Manhunt](https://www.spigotmc.org/resources/manhunt.96047/)
+   - unique games and free
+- [BlockBall](https://www.spigotmc.org/resources/blockball-minigame-bungeecord-soccer-football-1-20-4.15320/)
+   - unique games and free
+- [MCTennis](https://www.spigotmc.org/resources/mctennis-minigame-1-20-4.113074/)
+   - unique games and free
 ### Paid minigames
+- [ClashWars](https://www.spigotmc.org/resources/%E2%9E%A2-bedwars-clashwars-minigame.51340/)
+   - paid
+   - easy to setup
+   - multiple areas in one world support
+   - TNT, Fireball jump
+   - Really low resource usage
+   - used by the biggest server owner
 - [HideAndSeek](https://www.spigotmc.org/resources/hideandseek-40-sale.9777/)
    - unique games but not free
+   - free alternative [Kenshins Hide and Seek](https://www.spigotmc.org/resources/kenshins-hide-and-seek.95306/)
 - [Arcade Minigames](https://www.spigotmc.org/resources/%E2%9E%A2-arcade-minigames.49093/)
    - paid but lots of minigames packs
 - [RandomEvents](https://www.spigotmc.org/resources/%E2%9C%A8-randomevents-1-8-1-18-%E2%9C%A8-perfect-minigame-addon.80856/)
