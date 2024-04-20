@@ -417,7 +417,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - have best anti-dupe system
    - marketplace to download configurations
    - alternative [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/) and [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
-- [Keydupe]
+- [Keydupe](https://modrinth.com/plugin/keydupe)
    - unique addon plugin for any crates plugin
    - helps to detect duped keys
    - downside is after this keys will not stake together
@@ -440,7 +440,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - Monitor your server in real-time with Prometheus/InfluxDB and provided Grafana dashboards.
    - High performance metric collection. Low to none performance impact on the server's performance.
    - Free and open-source. The code is free and open for anyone to audit and contribute to.
-- [Papervoucher](https://modrinth.com/plugin/paper-currency-banknote-with-anti-dupe)
+- [Papercurrency](https://modrinth.com/plugin/paper-currency-banknote-with-anti-dupe)
    - robust anti-dupe system
    - free
    - Automated punishment for attempted currency duplication
