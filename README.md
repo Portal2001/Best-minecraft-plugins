@@ -413,7 +413,7 @@ guide for [[Minecraft-lag-prevention]](https://github.com/Fickletcell/Minecraft-
    - unlimited tutorials and view points
    - support NPC and lightweight
 - [zMenu](https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/)
-   - In-game and web Editor and creator of Gui
+   - Website for creating your own GUIs [zMenu Inventory Builder](https://minecraft-inventory-builder.com/)
    - have best anti-dupe system
    - marketplace to download configurations
    - alternative [Command Panels](https://www.spigotmc.org/resources/command-panels-custom-guis.67788/) and [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
